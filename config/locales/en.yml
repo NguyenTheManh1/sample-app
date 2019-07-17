@@ -1,3 +1,28 @@
 en:
-  sampleapp: Sample app
-
+  layouts:
+    application:
+      subtitle: Ruby on Rails Tutorial Sample App
+  static_pages:
+    home:
+      home_page: This is the home page for the
+      sample_application: sample application
+      title: Home
+      rails_tut: Ruby on Rails Tutorial
+    contact:
+      title: Contact
+      contact: Contact at the
+    help:
+      title: Help
+      get_help: Get help at the
+      to_get_help: To get help on this sample app, see the
+      book: book
+      help_page: Rails Tutorial help page
+      rails_tut: Ruby on Rails Tutorial
+    about:
+      title: About
+      to_teach: to teach web development with
+      is_a: is a
+      book: book
+      ruby: Ruby on Rails
+  vietnam: Vietnamese
+  english: English

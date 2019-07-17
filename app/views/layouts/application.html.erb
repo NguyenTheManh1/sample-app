@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><%= t ".sampleapp" %></title>
+    <title><%= yield :title %> | <%= t(".subtitle") %></title>
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
+    <%= link_to t("english"), locale: "en" %><br>
+    <%= link_to t("vietnam"), locale: "vi" %>
 
     <%= stylesheet_link_tag "application", media: "all", "data-turbolinks-track": "reload" %>
     <%= javascript_include_tag "application", "data-turbolinks-track": "reload" %>
