@@ -8,6 +8,7 @@ vi:
       sample_application: ứng dụng mẫu
       title: Trang chủ
       rails_tut: Hướng dẫn về Ruby on Rails
+      signup: Đăng ký ngay!
     contact:
       title: Liên hệ
       contact: Liên hệ tại
@@ -24,6 +25,19 @@ vi:
       is_a: là
       book: sách
       ruby: Ruby on Rails
+  users:
+    new:
+      sign: Đăng ký
+      this: Trang đăng ký cho người dùng mới
   vietnam: Tiếng việt
   english: English
   rails: Ứng dụng mẫu hướng dẫn Ruby on Rails
+  home: Trang chủ
+  help: Giúp đỡ
+  login: Đăng nhập
+  about: Giới thiệu
+  contact: Liên hệ
+  news: Bản tin
+  sample: Ứng dụng mẫu
+  by: bởi
+  rubyonrails: Hướng dẫn về Ruby on Rails

@@ -8,6 +8,7 @@ en:
       sample_application: sample application
       title: Home
       rails_tut: Ruby on Rails Tutorial
+      signup: Sign up now!
     contact:
       title: Contact
       contact: Contact at the
@@ -24,6 +25,19 @@ en:
       is_a: is a
       book: book
       ruby: Ruby on Rails
+  users:
+    new:
+      sign: Sign up
+      this: This will be a signup page for new users.
   vietnam: Tiếng việt
   english: English
   rails: Ruby on Rails Tutorial Sample App
+  home: Home
+  help: Help
+  login: Login
+  about: About
+  contact: Contact
+  news: News
+  sample: Sample App
+  by: by
+  rubyonrails: Ruby on Rails Tutorial
