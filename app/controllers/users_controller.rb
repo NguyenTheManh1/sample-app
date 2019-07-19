@@ -10,6 +10,7 @@ class UsersController < ApplicationController
   def create
     @user = User.new user_params
     if @user.save
+      log_in @user
       flash[:success] = t "welcome"
       redirect_to @user
     else
@@ -30,6 +31,6 @@ class UsersController < ApplicationController
     return if @user
 
     flash[:danger] = t "not_found"
-    redirect_to root_path
+    redirect_to root_url
   end
 end
