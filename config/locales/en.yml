@@ -2,6 +2,11 @@ en:
   layouts:
     application:
       subtitle: Ruby on Rails Tutorial Sample App
+  shared:
+    error_messages:
+        errors_count:
+          one: 1 error
+          other: "%{count} errors"
   static_pages:
     home:
       home_page: This is the home page for the
@@ -29,6 +34,11 @@ en:
     new:
       sign: Sign up
       this: This will be a signup page for new users.
+      name: Name
+      email: Email
+      password: Password
+      confirmation: Password confirmation
+      create: Create my account
   vietnam: Tiếng việt
   english: English
   rails: Ruby on Rails Tutorial Sample App
@@ -41,3 +51,6 @@ en:
   sample: Sample App
   by: by
   rubyonrails: Ruby on Rails Tutorial
+  welcome: Welcome to Sample app
+  danger: Signup failse
+  not_found: User not found
