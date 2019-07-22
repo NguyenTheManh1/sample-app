@@ -2,6 +2,11 @@ vi:
   layouts:
     application:
       subtitle: Ứng dụng mẫu hướng dẫn Ruby on Rails
+  shared:
+    error_messages:
+        errors_count:
+          one: 1 lỗi
+          other: "%{count} lỗi"
   static_pages:
     home:
       home_page: Đây là trang chủ
@@ -29,6 +34,11 @@ vi:
     new:
       sign: Đăng ký
       this: Trang đăng ký cho người dùng mới
+      name: Tên
+      email: Thư điện tử
+      password: Mật khẩu
+      confirmation: Xác nhận mật khẩu
+      create: Tạo tài khoản
   vietnam: Tiếng việt
   english: English
   rails: Ứng dụng mẫu hướng dẫn Ruby on Rails
@@ -41,3 +51,6 @@ vi:
   sample: Ứng dụng mẫu
   by: bởi
   rubyonrails: Hướng dẫn về Ruby on Rails
+  welcome: Chào mừng đến với ứng dụng mẫu
+  danger: Đăng ký thất bại
+  not_found: Không tìm thấy người dùng
