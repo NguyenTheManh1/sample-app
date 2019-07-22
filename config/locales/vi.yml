@@ -2,11 +2,25 @@ vi:
   layouts:
     application:
       subtitle: Ứng dụng mẫu hướng dẫn Ruby on Rails
+    header:
+      users: Người dùng
+      account: Tài khoản
+      profile: Hồ sơ
+      settings: Cài đặt
+      log_out: Đăng xuất
   shared:
     error_messages:
         errors_count:
           one: 1 lỗi
           other: "%{count} lỗi"
+  sessions:
+    new:
+      login: Đăng nhập
+      email: Thư điện tử
+      pass: Mật khẩu
+      new: Người mới
+      signup: Đăng ký ngay
+      login: Đăng nhập
   static_pages:
     home:
       home_page: Đây là trang chủ
@@ -54,3 +68,4 @@ vi:
   welcome: Chào mừng đến với ứng dụng mẫu
   danger: Đăng ký thất bại
   not_found: Không tìm thấy người dùng
+  invalid: Tài khoản hoặc mật khẩu không đúng

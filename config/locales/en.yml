@@ -2,11 +2,25 @@ en:
   layouts:
     application:
       subtitle: Ruby on Rails Tutorial Sample App
+    header:
+      users: Users
+      account: Account
+      profile: Profile
+      settings: Setting
+      log_out: Log out
   shared:
     error_messages:
         errors_count:
           one: 1 error
           other: "%{count} errors"
+  sessions:
+    new:
+      login: Log in
+      email: Email
+      pass: Password
+      new: New user
+      signup: Sign up now!
+      login: Log in
   static_pages:
     home:
       home_page: This is the home page for the
@@ -54,3 +68,4 @@ en:
   welcome: Welcome to Sample app
   danger: Signup failse
   not_found: User not found
+  invalid: Invalid email/password combination
