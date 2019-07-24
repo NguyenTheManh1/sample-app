@@ -21,6 +21,8 @@ vi:
       new: Người mới
       signup: Đăng ký ngay
       login: Đăng nhập
+      remember: Nhớ tài khoản
+      remember_me: Lưu tài khoản trên máy tính
   static_pages:
     home:
       home_page: Đây là trang chủ

@@ -21,6 +21,8 @@ en:
       new: New user
       signup: Sign up now!
       login: Log in
+      remember_me: Remember me
+      remember: Remember me on this computer
   static_pages:
     home:
       home_page: This is the home page for the
