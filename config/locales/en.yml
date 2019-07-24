@@ -50,11 +50,22 @@ en:
     new:
       sign: Sign up
       this: This will be a signup page for new users.
+      create: Create my account
+    user:
+      delete: Delete
+      you_sure: You sure?
+    index:
+      all: All user
+    form:
       name: Name
       email: Email
       password: Password
       confirmation: Password confirmation
-      create: Create my account
+    edit:
+      edit: Edit user
+      save: Save changes
+      update: Update your profile
+      change: change
   vietnam: Tiếng việt
   english: English
   rails: Ruby on Rails Tutorial Sample App
@@ -71,3 +82,8 @@ en:
   danger: Signup failse
   not_found: User not found
   invalid: Invalid email/password combination
+  profile: Profile updated!
+  failse: Update false
+  please: Please log in.
+  delete: Deleted user!
+  delete_false: Delete false!

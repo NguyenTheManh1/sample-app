@@ -50,11 +50,22 @@ vi:
     new:
       sign: Đăng ký
       this: Trang đăng ký cho người dùng mới
+    user:
+      delete: Xóa người dùng
+      you_sure: Xác nhận xóa ?
+    form:
       name: Tên
       email: Thư điện tử
       password: Mật khẩu
       confirmation: Xác nhận mật khẩu
       create: Tạo tài khoản
+    index:
+      all: Danh sách người dùng
+    edit:
+      edit: Sửa thông tin
+      save: Lưu thay đổi
+      update: Cập nhật thông tin cá nhân
+      change: thay đổi
   vietnam: Tiếng việt
   english: English
   rails: Ứng dụng mẫu hướng dẫn Ruby on Rails
@@ -71,3 +82,8 @@ vi:
   danger: Đăng ký thất bại
   not_found: Không tìm thấy người dùng
   invalid: Tài khoản hoặc mật khẩu không đúng
+  profile: Cập nhật thành công!
+  failse: Cập nhật thất bại!
+  please: Hãy đăng nhập
+  delete: Xóa thành công!
+  delete_false: Xóa thất bại!
