@@ -13,6 +13,16 @@ en:
         errors_count:
           one: 1 error
           other: "%{count} errors"
+  password_resets:
+    new:
+      forgot_pass: Forgot Password
+      email: Email
+      submit: Submit
+    edit:
+      reset_pass: Reset Password
+      password: Password
+      confirm: Password confirm
+      update: Update Password
   sessions:
     new:
       login: Log in
@@ -21,6 +31,7 @@ en:
       new: New user
       signup: Sign up now!
       login: Log in
+      forgot_pass: (Forgot Password)
       remember_me: Remember me
       remember: Remember me on this computer
   static_pages:
@@ -95,3 +106,12 @@ en:
   activate: Activate
   welcome_click: Welcome to the Sample App! Click on the link below to activate your account
   hi: Hi
+  password_expired: Password reset has expired!
+  password_reseted: Password has been reset
+  cant_blank: can't be empty
+  email_not_found: Email address not found
+  email_sented: Email sent with password reset instructions
+  password_reset: Password Reset
+  click_to_reset: Click link below to reset password
+  reset_pass: Reset Password
+  warning: This link will expire in two hours.

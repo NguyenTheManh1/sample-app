@@ -13,6 +13,16 @@ vi:
         errors_count:
           one: 1 lỗi
           other: "%{count} lỗi"
+  password_resets:
+    new:
+      forgot_pass: Quên mật khẩu
+      email: Thư điện tử
+      submit: Gửi
+    edit:
+      reset_pass: Tạo lại mật khẩu
+      password: Mật khẩu
+      confirm: Xác nhận mật khẩu
+      update: Cập nhật
   sessions:
     new:
       login: Đăng nhập
@@ -22,6 +32,7 @@ vi:
       signup: Đăng ký ngay
       login: Đăng nhập
       remember: Nhớ tài khoản
+      forgot_pass: Quên mật khẩu
       remember_me: Lưu tài khoản trên máy tính
   static_pages:
     home:
@@ -95,3 +106,12 @@ vi:
   activate: Kích hoạt
   welcome_click: Hãy chọn liên kết bên dưới để kích hoạt tài khoản
   hi: Xin chào
+  password_expired: Liên kết hết hạn
+  password_reseted: Đổi mật khẩu thành công
+  cant_blank: không thể trống
+  email_not_found: Không tìm thấy email
+  email_sented: Email được gửi với hướng dẫn đặt lại mật khẩu
+  password_reset: Tạo lại mật khẩu
+  click_to_reset: Chọn liên kết bên dưới để tạo lại mật khẩu
+  reset_pass: Tạo lại mật khẩu
+  warning: Liên kết này sẽ hết hạn trong 2 giờ

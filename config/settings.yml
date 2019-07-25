@@ -5,3 +5,4 @@ size_of_gravatar: 80
 size_of_user: 50
 paginate: 10
 check_re: 1
+time_expired: 2
