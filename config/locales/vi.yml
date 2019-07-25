@@ -50,6 +50,7 @@ vi:
     new:
       sign: Đăng ký
       this: Trang đăng ký cho người dùng mới
+      create: Tạo tài khoản
     user:
       delete: Xóa người dùng
       you_sure: Xác nhận xóa ?
@@ -87,3 +88,10 @@ vi:
   please: Hãy đăng nhập
   delete: Xóa thành công!
   delete_false: Xóa thất bại!
+  account_actived: Tài khoản đã kích hoạt
+  invalid_active: Liên kết kích hoạt không hợp lệ
+  please_check: Hãy kiểm tra email để kích hoạt tài khoản
+  activation: Kích hoạt tài khoản
+  activate: Kích hoạt
+  welcome_click: Hãy chọn liên kết bên dưới để kích hoạt tài khoản
+  hi: Xin chào
