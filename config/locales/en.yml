@@ -61,6 +61,7 @@ en:
       email: Email
       password: Password
       confirmation: Password confirmation
+      create: Create my account
     edit:
       edit: Edit user
       save: Save changes
@@ -87,3 +88,10 @@ en:
   please: Please log in.
   delete: Deleted user!
   delete_false: Delete false!
+  account_actived: Account activated!
+  invalid_active: Invalid activation link!
+  please_check: Please check your email to activate your account.
+  activation: Account activation
+  activate: Activate
+  welcome_click: Welcome to the Sample App! Click on the link below to activate your account
+  hi: Hi
