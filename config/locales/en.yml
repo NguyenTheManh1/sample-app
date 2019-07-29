@@ -8,7 +8,19 @@ en:
       profile: Profile
       settings: Setting
       log_out: Log out
+  microposts:
+    micropost:
+      ago: ago.
+      delete: Delete
+      you_sure: You sure ?
+      poste: Post
   shared:
+    micropost_form:
+      compose: Compose new micropost...
+      post: Post
+    user_info:
+      view_my_profile: view my profile
+      micropost: micropost
     error_messages:
         errors_count:
           one: 1 error
@@ -41,6 +53,7 @@ en:
       title: Home
       rails_tut: Ruby on Rails Tutorial
       signup: Sign up now!
+      micro_feed: Micropost feed
     contact:
       title: Contact
       contact: Contact at the
@@ -78,6 +91,8 @@ en:
       save: Save changes
       update: Update your profile
       change: change
+    show:
+      micropost_feed: Micropost feed
   vietnam: Tiếng việt
   english: English
   rails: Ruby on Rails Tutorial Sample App
@@ -115,3 +130,9 @@ en:
   click_to_reset: Click link below to reset password
   reset_pass: Reset Password
   warning: This link will expire in two hours.
+  maximum_file: Maximum file size is 5MB. Please choose a smaller file.
+  micropost_deleted: Micropost deleted!
+  delete_failse: Delete failse !
+  not_found_micro: Not found micropost !
+  micro_create: Micropost created!
+  error_pic: should be less than 5MB

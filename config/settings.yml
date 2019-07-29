@@ -6,3 +6,11 @@ size_of_user: 50
 paginate: 10
 check_re: 1
 time_expired: 2
+max_content: 140
+num_paginate: 10
+picture_size: 5
+micropost:
+  image_height: 400
+  image_width: 400
+  size: 50
+file_accept: image/jpeg, image/gif, image/png

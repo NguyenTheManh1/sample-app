@@ -8,7 +8,19 @@ vi:
       profile: Hồ sơ
       settings: Cài đặt
       log_out: Đăng xuất
+  microposts:
+    micropost:
+      ago: trước
+      delete: Xóa bài viết
+      you_sure: Bạn đã chắc chắn ?
+      poste: Đăng
   shared:
+    micropost_form:
+      compose: Tạo bài viết mới...
+      post: Đăng
+    user_info:
+      view_my_profile: xem hồ sơ
+      micropost: bài viết
     error_messages:
         errors_count:
           one: 1 lỗi
@@ -41,6 +53,7 @@ vi:
       title: Trang chủ
       rails_tut: Hướng dẫn về Ruby on Rails
       signup: Đăng ký ngay!
+      micro_feed: Danh sách bài viết
     contact:
       title: Liên hệ
       contact: Liên hệ tại
@@ -78,6 +91,8 @@ vi:
       save: Lưu thay đổi
       update: Cập nhật thông tin cá nhân
       change: thay đổi
+    show:
+      micropost_feed: Danh sách bài viết
   vietnam: Tiếng việt
   english: English
   rails: Ứng dụng mẫu hướng dẫn Ruby on Rails
@@ -115,3 +130,9 @@ vi:
   click_to_reset: Chọn liên kết bên dưới để tạo lại mật khẩu
   reset_pass: Tạo lại mật khẩu
   warning: Liên kết này sẽ hết hạn trong 2 giờ
+  maximum_file: Hãy chọn ảnh có kích thước nhỏ hơn!
+  micropost_deleted: Xóa bài viết thành công!
+  delete_failse: Xóa thất bại
+  not_found_micro: Không tìm thấy bài viết
+  micro_create: Tạo bài viết thành công!
+  error_pic: Nên để ảnh nhỏ hơn 5Mb
