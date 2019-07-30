@@ -14,3 +14,5 @@ micropost:
   image_width: 400
   size: 50
 file_accept: image/jpeg, image/gif, image/png
+size_avatar: 30
+

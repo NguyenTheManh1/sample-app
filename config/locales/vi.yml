@@ -25,6 +25,9 @@ vi:
         errors_count:
           one: 1 lỗi
           other: "%{count} lỗi"
+    stats:
+      following: Đang theo dõi
+      followers: Được theo dõi
   password_resets:
     new:
       forgot_pass: Quên mật khẩu
@@ -71,6 +74,13 @@ vi:
       book: sách
       ruby: Ruby on Rails
   users:
+    follow:
+      follow: Theo dõi
+    unfollow:
+      unfollow: Bỏ theo dõi
+    show_follow:
+      view_my_profile: Xem hồ sơ
+      micropost: Bài viết
     new:
       sign: Đăng ký
       this: Trang đăng ký cho người dùng mới
@@ -136,3 +146,6 @@ vi:
   not_found_micro: Không tìm thấy bài viết
   micro_create: Tạo bài viết thành công!
   error_pic: Nên để ảnh nhỏ hơn 5Mb
+  following: Đang theo dõi
+  followers: Người theo dõi
+  not_found_relationship: Không có quan hệ
