@@ -25,6 +25,9 @@ en:
         errors_count:
           one: 1 error
           other: "%{count} errors"
+    stats:
+        following: following
+        followers: followers
   password_resets:
     new:
       forgot_pass: Forgot Password
@@ -71,6 +74,13 @@ en:
       book: book
       ruby: Ruby on Rails
   users:
+    follow:
+      follow: Follow
+    unfollow:
+      unfollow: Unfollow
+    show_follow:
+      view_my_profile: view my profile
+      micropost: Micropost
     new:
       sign: Sign up
       this: This will be a signup page for new users.
@@ -136,3 +146,6 @@ en:
   not_found_micro: Not found micropost !
   micro_create: Micropost created!
   error_pic: should be less than 5MB
+  following: Following
+  followers: Followers
+  not_found_relationship: Not found relationship
